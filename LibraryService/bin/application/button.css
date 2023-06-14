@@ -1,0 +1,53 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	-fx-font-weight:bold;
+     -fx-background-image: url("/images/img1.png");
+     -fx-cursor:pointer;  
+   }
+.button{
+	     -fx-background-color: 	#DEB887;
+        -fx-font-color:white;
+}
+#home_admin_pane{
+		     -fx-background-color: #FFFAFA;
+	
+}
+#home_customer_pane{
+		     -fx-background-color: #FFFAFA;
+	
+}
+#home_manager_pane{
+		     -fx-background-color: #FFFAFA;
+	
+}
+#home_exit_pane{
+		     -fx-background-color: #FFFAFA;
+	
+}
+#reservation_pane{
+		     -fx-background-color: #FFFAFA;
+	}
+	#manage_profile_pane{
+		     -fx-background-color: #FFFAFA;
+	}
+	#admin_page_logout_pane{
+		     -fx-background-color: #FFFAFA;
+	}
+	#reservation_pane{
+		     -fx-background-color: #FFFAFA;
+	}
+	#customer_manage_profile_pane{
+		     -fx-background-color: #FFFAFA;
+	}#customer_page_logout_pane{
+		     -fx-background-color: #FFFAFA;
+	}#availableroom_pane{
+		     -fx-background-color: #FFFAFA;
+	}
+	#managerlogout_pane{
+		     -fx-background-color: #FFFAFA;
+	}#managercustomer_pane{
+		     -fx-background-color: #FFFAFA;
+	}#manageradmin_pane{
+		     -fx-background-color: #FFFAFA;
+	}
